@@ -1,0 +1,27 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  input {
+    width: 80%;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    border-color: coral;
+    text-align: center;
+    font-size: x-large;
+    background-color: black;
+  }
+  
+  body {
+    background-image: url(https://images.unsplash.com/photo-1531824475211-72594993ce2a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+    background-position: fixed;
+  }
+  
+  .font {
+    color: black;
+    font-variant: coral;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: white;
+  }
+  
